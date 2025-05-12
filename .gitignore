@@ -1,0 +1,5 @@
+# Ignora todos os arquivos e pastas
+*
+
+# Exclui da regra de ignorar (permite) arquivos .py
+!*.py
