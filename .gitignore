@@ -1,6 +1,0 @@
-# Ignora todos os arquivos e pastas
-*
-.idea/
-
-# Exclui da regra de ignorar (permite) arquivos .py
-!*.py
